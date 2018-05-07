@@ -69,7 +69,7 @@ GUIFrame::GUIFrame( wxWindow* parent, wxWindowID id, const wxString& title, cons
 	
 	bSizer2->Add( txtRata, 0, wxALL, 5 );
 	
-	m_staticText2 = new wxStaticText( sbSizer1->GetStaticBox(), wxID_ANY, wxT("Max. količina"), wxDefaultPosition, wxDefaultSize, 0 );
+	m_staticText2 = new wxStaticText( sbSizer1->GetStaticBox(), wxID_ANY, wxT("Max. nabava"), wxDefaultPosition, wxDefaultSize, 0 );
 	m_staticText2->Wrap( -1 );
 	m_staticText2->SetMinSize( wxSize( 70,-1 ) );
 	

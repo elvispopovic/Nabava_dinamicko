@@ -3220,3 +3220,60 @@
 	"wx/grid.h"
 	"wx/datetime.h"
 
+1525510483 source:d:\foi\operacijska istrazivanja\git\nabava_dinamicko\wx_pch.h
+	<wx/wxprec.h>
+	<wx/wx.h>
+
+1493470838 c:\wxwidgets303\lib\gcc_dll\mswu\wx\setup.h
+
+1525510483 source:d:\foi\operacijska istrazivanja\git\nabava_dinamicko\dinamickoapp.cpp
+	"wx_pch.h"
+	"DinamickoApp.h"
+	"DinamickoMain.h"
+
+1525510483 d:\foi\operacijska istrazivanja\git\nabava_dinamicko\wx_pch.h
+	<wx/wxprec.h>
+	<wx/wx.h>
+
+1525532595 d:\foi\operacijska istrazivanja\git\nabava_dinamicko\dinamickoapp.h
+	<vector>
+	<wx/app.h>
+
+1525594374 d:\foi\operacijska istrazivanja\git\nabava_dinamicko\dinamickomain.h
+	"DinamickoApp.h"
+	"GUIFrame.h"
+
+1525601621 d:\foi\operacijska istrazivanja\git\nabava_dinamicko\guiframe.h
+	<wx/artprov.h>
+	<wx/xrc/xmlres.h>
+	<wx/string.h>
+	<wx/bitmap.h>
+	<wx/image.h>
+	<wx/icon.h>
+	<wx/menu.h>
+	<wx/gdicmn.h>
+	<wx/font.h>
+	<wx/colour.h>
+	<wx/settings.h>
+	<wx/statusbr.h>
+	<wx/stattext.h>
+	<wx/textctrl.h>
+	<wx/sizer.h>
+	<wx/grid.h>
+	<wx/button.h>
+	<wx/statbox.h>
+	<wx/frame.h>
+	<wx/dialog.h>
+
+1525722076 source:d:\foi\operacijska istrazivanja\git\nabava_dinamicko\guiframe.cpp
+	"wx/wxprec.h"
+	<wx/wx.h>
+	"GUIFrame.h"
+
+1446671340 source:d:\foi\operacijska istrazivanja\git\nabava_dinamicko\resource.rc
+	"wx/msw/wx.rc"
+
+1525721876 source:d:\foi\operacijska istrazivanja\git\nabava_dinamicko\dinamickomain.cpp
+	"wx_pch.h"
+	"DinamickoMain.h"
+

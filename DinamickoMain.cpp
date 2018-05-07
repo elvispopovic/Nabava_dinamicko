@@ -241,7 +241,7 @@ void DinamickoFrame::Izracunaj( wxCommandEvent& event )
         {
             potraznja = this->potraznja[razdoblje];
             nabavaMin = (zalihe+potraznja-maxZal<0.0?0.0:zalihe+potraznja-maxZal);
-            nabavaMax = zalihe+potraznja;
+            nabavaMax = zalihe+potraznja>maxKol?maxKol:zalihe+potraznja;
             if(razdoblje>0)
             {
                 f2.push_back(1.0e100);
